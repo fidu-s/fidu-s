@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Firdews
+- 👀 I’m interested in Programming, Sports, Drawing
+- 🌱 I’m currently learning HTML/CSS/Python/JS
